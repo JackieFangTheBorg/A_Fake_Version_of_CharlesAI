@@ -1,5 +1,5 @@
 # A_Fake_Version_of_CharlesAI
-An unfinished self-driving version of self-driving AI in GTA5
+An unfinished version of self-driving AI in GTA5
 Start from the ipython notebook. If you wanna know the requirement of packages, see the import commands in each block.
 
 This is an simplified version of Charles self-driving AI:
