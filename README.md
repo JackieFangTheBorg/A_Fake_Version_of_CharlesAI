@@ -2,7 +2,7 @@
 An unfinished version of self-driving AI in GTA5         
 Start from the ipython notebook. If you wanna know the requirement of packages, see the import commands in each block.
 
-This is an simplified version of Charles self-driving AI:
+This is an simplified version of Charles self-driving AI:             
 1.less actions: W A D WA WD NK.       
 2.no obstacles, main goal is just stay in lines while driving.        
 3.no dashboard, full screen of scene.        
