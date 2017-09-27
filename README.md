@@ -1,5 +1,6 @@
 # A_Fake_Version_of_CharlesAI
 An unfinished self-driving version of self-driving AI in GTA5
+Start from the ipython notebook. If you wanna know the requirement of packages, see the import commands in each block.
 
 This is an simplified version of Charles self-driving AI:
 1.less actions: W A D WA WD NK.
@@ -11,3 +12,5 @@ However, due to shortage of storage, time and data batches, I haven't finished t
 I just wonder if there is any method can reduce the scale of required data. lol
 
 Awesome dudes, I need ur help :(
+
+
