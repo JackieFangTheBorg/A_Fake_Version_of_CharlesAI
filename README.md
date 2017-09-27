@@ -1,12 +1,12 @@
-# A_Fake_Version_of_CharlesAI
+n# A_Fake_Version_of_CharlesAI
 An unfinished version of self-driving AI in GTA5
 
 Start from the ipython notebook. If you wanna know the requirement of packages, see the import commands in each block.
 
 This is an simplified version of Charles self-driving AI:
-1.less actions: W A D WA WD NK.
-2.no obstacles, main goal is just stay in lines while driving.
-3.no dashboard, full screen of scene.
+1.less actions: W A D WA WD NK.\n
+2.no obstacles, main goal is just stay in lines while driving.\n
+3.no dashboard, full screen of scene.\n
 
 However, due to shortage of storage, time and data batches, I haven't finished the train process of this AI.
 
